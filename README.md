@@ -8,6 +8,6 @@
   <br>
   <br>
   <br>  
-  <p align="center"><img src="https://i.playground.ru/p/T8XezFBB9KLImAAslMl7xQ.png"; style="transform: translate(1000px,300px);></p>
+  <p align="left"><img src="https://i.playground.ru/p/T8XezFBB9KLImAAslMl7xQ.png"></p>
   </body>
 </head>
