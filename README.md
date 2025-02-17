@@ -8,5 +8,6 @@
   <br>
   <br>
   <br>  
+  <p align="center"><img src="https://триумфарий.рф/uploads/blog/1547618537.png"></p>
   </body>
 </head>
