@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-  <body bgcolor="#000" background="https://avatars.mds.yandex.net/i?id=bc8f0a1a083f33702bc83cc02bbd6fe5_l-5349329-images-thumbs&n=13">
+  <body bgcolor="#000">
   <p align="center"><h1><strong>Добро пожаловать в наш техникум<br>ВАПТ</h1></strong></p>
   <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Selkhozkolleg.jpg/960px-Selkhozkolleg.jpg" alt="m"> </h1>
   <br>
