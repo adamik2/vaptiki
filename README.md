@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<link rel="stylesheet" type="text/css" href="https://vaptiki.github.io/style.css">
 <head>
   <body bgcolor="#000">
   <p align="center"><h1><strong>Добро пожаловать в наш техникум<br>ВАПТ</h1></strong></p>
@@ -9,5 +10,6 @@
   <br>
   <br>  
   <p align="center"><img src="https://i.playground.ru/p/T8XezFBB9KLImAAslMl7xQ.png"></p>
+  
   </body>
 </head>
