@@ -10,6 +10,6 @@
 	<meta name="generator" content="Joomla! - Open Source Content Management" />
   <title>Всеволожский агропромышленный техникум</title>
   <body>
-  <h1><img src="https://avatars.mds.yandex.net/get-altay/200322/2a0000015c012e5d52e40210b1a4efa9db62/XXL_height" alt="m"> </h1>
+  <h1><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Selkhozkolleg.jpg/960px-Selkhozkolleg.jpg" alt="m"> </h1>
   </body>
 </head>
