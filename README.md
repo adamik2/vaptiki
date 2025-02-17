@@ -9,6 +9,6 @@
   <br>
   <br>
   <br>  
-  <p align="center"><img src="https://i.playground.ru/p/T8XezFBB9KLImAAslMl7xQ.png"; width:"2000"; height:"1000"></p>
+  <p align="center"><img src="https://i.playground.ru/p/T8XezFBB9KLImAAslMl7xQ.png"; width:"5000"; height:"1000"></p>
   </body>
 </head>
