@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<html lang="ru-RU" dir="ltr">
 <head>
   <body>
   <p><strong>Добро пожаловать в нашу шаражку</strong></p>
