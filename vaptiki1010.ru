@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-  <body>
+  <body bgcolor="#000" background="https://avatars.mds.yandex.net/i?id=bc8f0a1a083f33702bc83cc02bbd6fe5_l-5349329-images-thumbs&n=13">
   <p align="middle"><strong>Добро пожаловать в нашу шаражку</strong></p>
   <p align="middle"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Selkhozkolleg.jpg/960px-Selkhozkolleg.jpg" alt="m"> </h1>
   <br>
